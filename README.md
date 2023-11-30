@@ -3,7 +3,7 @@ Web Project : Gamja-Market
 
 notion : <a href="https://www.notion.so/2a09a64f2f8d4b9e84c6d280adbe5d38?v=306404e77898486b9cc1a008133971f9">노션 보러가기</a>
 
-site : http://gamja-market.site(현재 사용 중지)
+site : http://gamja-market.site (현재 사용 중지)
 
 
 #### 프로젝트 소개
