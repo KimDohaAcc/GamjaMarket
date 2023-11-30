@@ -7,7 +7,7 @@ site : http://gamja-market.site (현재 사용 중지)
 
 <hr>
 
-#### 프로젝트 소개
+## 프로젝트 소개
 
 **감자마켓**은 여러분의 주변 이웃들과 손쉽게 중고 거래를 할 수 있는 편리한 사이트입니다.
 
@@ -21,7 +21,7 @@ site : http://gamja-market.site (현재 사용 중지)
 
 <hr>
 
-#### 기술 스택
+## 기술 스택
 
 Java
 
@@ -34,19 +34,19 @@ FireBase
 
 <hr>
 
-#### 테이블 정의서
+## 테이블 정의서
 
 <img src="images/테이블정의서.png">
 
 <hr>
 
-#### ERD
+## ERD
 
 <img src="images/ERD.png">
 
 <hr>
 
-#### 기능 소개
+## 기능 소개
 
 **✨메인 페이지✨**
 
